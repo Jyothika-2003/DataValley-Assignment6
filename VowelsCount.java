@@ -1,4 +1,4 @@
-/* Write a Java program to check if a vowel is present in a string. Additionally, the program should count 
+/*4. Write a Java program to check if a vowel is present in a string. Additionally, the program should count 
 the total number of vowels present and display the count along with whether any vowels are present or not.
 */
 
